@@ -1,2 +1,2 @@
-# Soal_UAS_DKA
-Soal Hill Climbing &amp; Simulated Annealing
+# This is Midterm Test questions about Artificial Intelligence 
+Topic: Hill Climbing &amp; Simulated Annealing
